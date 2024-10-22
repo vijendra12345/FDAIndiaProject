@@ -8,7 +8,7 @@ import java.util.Date;
 
 @Entity
 @Data
-@AllArgsConstructor
+
 @NoArgsConstructor
 @Table(name = "leave_request")
 public class LeaveRequest {

@@ -14,7 +14,7 @@ import lombok.ToString;
 @Entity
 @Table(name="leave_type")
 @Data
-@AllArgsConstructor
+
 @NoArgsConstructor
 @ToString
 public class LeaveType {
